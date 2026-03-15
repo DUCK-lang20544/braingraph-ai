@@ -8,7 +8,7 @@ import tempfile
 import json
 
 # Gemini API setup
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyxxxx")
 
 model = genai.GenerativeModel("gemini-1.5-flash")
 
